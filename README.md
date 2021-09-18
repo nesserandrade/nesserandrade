@@ -1,6 +1,6 @@
-# Bom dia/tarde/noite! Meu nome é Nesser!
+# 😃 Bom dia/tarde/noite! Meu nome é Nesser!
 
-## Bem vindo ao meu perfil
+## Bem vindo ao meu perfil!
 
 ❤️ Aluno do IFPR em Análise de Sistemas
 
