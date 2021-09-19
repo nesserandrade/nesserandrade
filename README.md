@@ -2,7 +2,7 @@
 
 ## Bem vindo ao meu perfil!
 
-❤️ Aluno do IFPR em Análise de Sistemas
+❤️ Aluno do IFPR em Análise e Desenvolvimento de Sistemas
 
 🎾 Aluno do DevInHouse Involves e Paripassu 2021
 
