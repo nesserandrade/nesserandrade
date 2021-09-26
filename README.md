@@ -8,12 +8,6 @@
 
 🔥 Estudando JavaScript, HTML e CSS
 
-<div>
-<a href="https://github.com/nesserandrade?tab=repositories">
-<img height="145em" src="https://github-readme-stats.vercel.app/api?username=nesserandrade&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesserandrade&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -39,6 +33,12 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+</div>
+
+<div>
+<a href="https://github.com/nesserandrade?tab=repositories">
+<img height="145em" src="https://github-readme-stats.vercel.app/api?username=nesserandrade&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesserandrade&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 <div>
