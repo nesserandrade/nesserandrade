@@ -15,6 +15,6 @@
 </div>
 
 <div>
-<a href="https://www.linkedin.com/in/nesser-cristiano-de-andrade-36157421b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="mailto:nesser24601@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Linkedin"></a>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+<a href="mailto:nesser24601@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Linkedin">
 </div>
