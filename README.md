@@ -4,10 +4,6 @@
 
 ❤️ Aluno do IFPR em Análise e Desenvolvimento de Sistemas
 
-🎾 Aluno do DevInHouse Involves e Paripassu 2021
-
-🔥 Estudando JavaScript, HTML e CSS
-
 &nbsp;
 &nbsp;
 
