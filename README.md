@@ -2,8 +2,6 @@
 
 ## Bem vindo ao meu perfil!
 
-Suporte técnico na Semantix. Programador de férias.
-
 &nbsp;
 &nbsp;
 
